@@ -4,10 +4,10 @@
 ```js
 const aboutMe = {
    pronouns: "she" || "her",
-   code: [Javascript, HTML, CSS],
+   code: ["Javascript", "Typescript", "HTML", "CSS"],
    technologies: {
       frontEnd: {
-         js: ["React", "Vite"],
+         js: ["React", "Angular", "Vite"],
          css: ["Tailwind"]
       },
       backEnd: {
