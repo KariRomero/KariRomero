@@ -7,15 +7,15 @@ const aboutMe = {
    code: ["Javascript", "Typescript", "HTML", "CSS"],
    technologies: {
       frontEnd: {
-         js: ["React", "Angular", "Vite"],
-         css: ["Tailwind"]
+         frameworksAndLibraries: ["React", "Angular", "Redux"],
+         css: ["Tailwind" ,"Bootstrap"]
       },
       backEnd: {
          js: ["Node", "Express"],         
       },
       databases: ["Sequelize ", "SQL"]
    },
-   currentOccupation: ["last year student, open for job opportunities"],
+   currentOccupation: ["open for job opportunities"],
 };
 
 ```
