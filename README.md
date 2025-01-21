@@ -7,13 +7,13 @@ const aboutMe = {
    code: ["Javascript", "Typescript", "HTML", "CSS"],
    technologies: {
       frontEnd: {
-         frameworksAndLibraries: ["React", "Angular", "Redux", Next.js],
+         frameworksAndLibraries: ["React", "React Native", "Angular", "Redux", "Next.js"],
          css: ["Tailwind" ,"Bootstrap"]
       },
       backEnd: {
-         js: ["Node", "Express", Nest.js],         
+         js: ["Node", "Express", "Nest.js"],         
       },
-      databases: ["Sequelize ", "SQL", Prisma]
+      databases: ["Sequelize ", "SQL", "Supabase"]
    },
    currentOccupation: ["open for job opportunities"],
 };
