@@ -15,7 +15,7 @@ const aboutMe = {
       },
       databases: ["Sequelize ", "SQL", "Supabase"]
    },
-   currentOccupation: ["open for job opportunities"],
+   currentOccupation: ["start up","remote","open for job opportunities"],
 };
 
 ```
